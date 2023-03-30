@@ -15,13 +15,13 @@ def Space(j):
 
 		i+=1
 
-print "A     D   M    I    N"                                                                             "
+print "ADMIN"                                                                             "
 
-print "P       A       N     E    L "
+print "PANEL "
 
-print "F     I      N      D     E     R"
+print "FINDER"
 
-print "                                    Flexify                        "
+print "Flexify"
 
 def findAdmin():
 
